@@ -3,3 +3,5 @@
 ![Landing Page](landing-page.png)
 
 This is RevoU FSSE group i's final project about a community marketplace for Exotic fish enthusiast.
+
+[lautlestari.](https://lautlestari.netlify.app/)
